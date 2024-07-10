@@ -1,0 +1,30 @@
+.details{
+    border: 2px solid white;
+    padding: 10px;
+    background-color: white;
+}
+.sub{
+    border: 2px solid white;
+    width: 550px;
+    padding:10px 20px;
+    margin: 20px;
+    background-color: rgb(211, 210, 210);
+}
+body{
+    border: 2px solid black;
+    width: 50%;
+    margin: 100px 300px;
+}
+input[type=text]{
+    width: 500px
+}
+input[type=email]{
+    width: 500px;
+}
+button{
+    width: 550px;
+}
+button:hover{
+    background-color: rgb(46, 180, 46);
+    cursor: pointer;
+}
